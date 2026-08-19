@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "titolo_film": "A Beautiful Mind",
+    "genere": "Biography",
+    "regista": "Ron Howard",
+    "anno": 2001,
+    "durata_minuti": 135
+  },
+  {
+    "id": 2,
+    "titolo_film": "Good Will Hunting",
+    "genere": "Drama",
+    "regista": "Gus Van Sant",
+    "anno": 1997,
+    "durata_minuti": 126
+  },
+  {
+    "id": 3,
+    "titolo_film": "The Best Years of Our Lives",
+    "genere": "Drama",
+    "regista": "William Wyler",
+    "anno": 1946,
+    "durata_minuti": 170
+  },
+  {
+    "id": 4,
+    "titolo_film": "To Have and Have Not",
+    "genere": "Adventure",
+    "regista": "Howard Hawks",
+    "anno": 1944,
+    "durata_minuti": 100
+  },
+  {
+    "id": 5,
+    "titolo_film": "Blue Velvet",
+    "genere": "Drama",
+    "regista": "David Lynch",
+    "anno": 1986,
+    "durata_minuti": 120
+  },
+  {
+    "id": 6,
+    "titolo_film": "The Philadelphia Story",
+    "genere": "Comedy",
+    "regista": "George Cukor",
+    "anno": 1940,
+    "durata_minuti": 112
+  },
+  {
+    "id": 7,
+    "titolo_film": "The Blues Brothers",
+    "genere": "Action",
+    "regista": "John Landis",
+    "anno": 1980,
+    "durata_minuti": 133
+  },
+  {
+    "id": 8,
+    "titolo_film": "The Bridge on the River Kwai",
+    "genere": "Adventure",
+    "regista": "David Lean",
+    "anno": 1957,
+    "durata_minuti": 161
+  },
+  {
+    "id": 9,
+    "titolo_film": "Gandhi",
+    "genere": "Biography",
+    "regista": "Richard Attenborough",
+    "anno": 1982,
+    "durata_minuti": 191
+  },
+  {
+    "id": 10,
+    "titolo_film": "The Lord of the Rings: The Fellowship of the Ring",
+    "genere": "Action",
+    "regista": "Peter Jackson",
+    "anno": 2001,
+    "durata_minuti": 178
+  },
+  {
+    "id": 11,
+    "titolo_film": "Misery",
+    "genere": "Drama",
+    "regista": "Rob Reiner",
+    "anno": 1990,
+    "durata_minuti": 107
+  },
+  {
+    "id": 12,
+    "titolo_film": "The Treasure of the Sierra Madre",
+    "genere": "Adventure",
+    "regista": "John Huston",
+    "anno": 1948,
+    "durata_minuti": 126
+  },
+  {
+    "id": 13,
+    "titolo_film": "The Hurricane",
+    "genere": "Biography",
+    "regista": "Norman Jewison",
+    "anno": 1999,
+    "durata_minuti": 146
+  },
+  {
+    "id": 14,
+    "titolo_film": "C.R.A.Z.Y.",
+    "genere": "Comedy",
+    "regista": "Jean-Marc VallÃ©e",
+    "anno": 2005,
+    "durata_minuti": 129
+  },
+  {
+    "id": 15,
+    "titolo_film": "Veer-Zaara",
+    "genere": "Drama",
+    "regista": "Yash Chopra",
+    "anno": 2004,
+    "durata_minuti": 192
+  },
+  {
+    "id": 16,
+    "titolo_film": "Primal Fear",
+    "genere": "Crime",
+    "regista": "Gregory Hoblit",
+    "anno": 1996,
+    "durata_minuti": 129
+  },
+  {
+    "id": 17,
+    "titolo_film": "Donnie Darko",
+    "genere": "Drama",
+    "regista": "Richard Kelly",
+    "anno": 2001,
+    "durata_minuti": 113
+  },
+  {
+    "id": 18,
+    "titolo_film": "Star Trek II: The Wrath of Khan",
+    "genere": "Action",
+    "regista": "Nicholas Meyer",
+    "anno": 1982,
+    "durata_minuti": 113
+  },
+  {
+    "id": 19,
+    "titolo_film": "The Silence of the Lambs",
+    "genere": "Crime",
+    "regista": "Jonathan Demme",
+    "anno": 1991,
+    "durata_minuti": 118
+  }
+]
