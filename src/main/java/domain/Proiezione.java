@@ -15,5 +15,40 @@ public class Proiezione {
         this.dataOra = dataOra;
     }
 
-    // Getters & Setters
+    //METODI GETTERS
+
+    public int getId() {
+        return id;
+    }
+
+    public int getIdFilm() {
+        return idFilm;
+    }
+
+    public String getSala() {
+        return sala;
+    }
+
+    public LocalDateTime getDataOra() {
+        return dataOra;
+    }
+
+    //METODI SETTERS
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setIdFilm(int idFilm) {
+        this.idFilm = idFilm;
+    }
+
+    public void setSala(String sala) {
+        this.sala = sala;
+    }
+
+    public void setDataOra(LocalDateTime dataOra) {
+        this.dataOra = dataOra;
+    }
+
 }
