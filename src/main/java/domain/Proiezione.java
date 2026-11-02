@@ -5,50 +5,30 @@ import java.time.LocalDateTime;
 public class Proiezione {
     private int id;
     private int idFilm;
-    private String sala;
     private LocalDateTime dataOra;
+    private int etaMinima;
+    private double prezzoBiglietto;
 
-    public Proiezione(int id, int idFilm, String sala, LocalDateTime dataOra) {
+    public Proiezione(int id, int idFilm, LocalDateTime dataOra, int etaMinima, double prezzoBiglietto) {
         this.id = id;
         this.idFilm = idFilm;
-        this.sala = sala;
         this.dataOra = dataOra;
+        this.etaMinima = etaMinima;
+        this.prezzoBiglietto = prezzoBiglietto;
     }
 
-    //METODI GETTERS
+    public int getId() { return id; }
+    public void setId(int id) { this.id = id; }
 
-    public int getId() {
-        return id;
-    }
+    public int getIdFilm() { return idFilm; }
+    public void setIdFilm(int idFilm) { this.idFilm = idFilm; }
 
-    public int getIdFilm() {
-        return idFilm;
-    }
+    public LocalDateTime getDataOra() { return dataOra; }
+    public void setDataOra(LocalDateTime dataOra) { this.dataOra = dataOra; }
 
-    public String getSala() {
-        return sala;
-    }
+    public int getEtaMinima() { return etaMinima; }
+    public void setEtaMinima(int etaMinima) { this.etaMinima = etaMinima; }
 
-    public LocalDateTime getDataOra() {
-        return dataOra;
-    }
-
-    //METODI SETTERS
-
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public void setIdFilm(int idFilm) {
-        this.idFilm = idFilm;
-    }
-
-    public void setSala(String sala) {
-        this.sala = sala;
-    }
-
-    public void setDataOra(LocalDateTime dataOra) {
-        this.dataOra = dataOra;
-    }
-
+    public double getPrezzoBiglietto() { return prezzoBiglietto; }
+    public void setPrezzoBiglietto(double prezzoBiglietto) { this.prezzoBiglietto = prezzoBiglietto; }
 }
