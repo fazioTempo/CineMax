@@ -1,9 +1,33 @@
-package domain;
+package model;
 
-public class Utente {
-    protected int id;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonSubTypes;
+import com.fasterxml.jackson.annotation.JsonTypeInfo;
+
+@JsonTypeInfo(
+        use = JsonTypeInfo.Id.NAME,
+        include = JsonTypeInfo.As.PROPERTY,
+        property = "ruolo"
+)
+@JsonSubTypes({
+        @JsonSubTypes.Type(value = Cliente.class, name = "cliente"),
+        @JsonSubTypes.Type(value = Bigliettaio.class, name = "bigliettaio"),
+        @JsonSubTypes.Type(value = Proiezionista.class, name = "proiezionista")
+})
+public abstract class Utente {
+
+    protected String nome;
+    protected String cognome;
     protected String username;
     protected String password;
+
+    @JsonProperty("data_di_nascita")
+    protected String dataDiNascita;
+
+    @JsonProperty("luogo_del_domicilio")
+    protected String luogoDelDomicilio;
+
+    protected int id;
     protected String type; // proiezionista, bigliettaio, cliente
 
     public Utente(int id, String username, String password, String type) {

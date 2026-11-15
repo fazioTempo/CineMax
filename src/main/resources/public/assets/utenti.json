@@ -1,66 +1,73 @@
 [
   {
+    "id" :"0",
 
     "nome":"jhomnny",
     "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
+    "id" : "1",
     "nome":"jhomnny",
     "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
+    "id" : "2",
     "nome":"jhomnny",
     "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
+    "id" : "3",
     "nome":"jhomnny",
     "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
+    "id" : "4",
     "nome":"jhomnny",
     "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
+    "id" : "4",
     "nome":"",
     "cognome":  "",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "proiezionista"
   },
   {
+    "id" : "4",
     "nome":"",
     "cognome":  "",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "proiezionista"
   }
 ]

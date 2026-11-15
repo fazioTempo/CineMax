@@ -2,47 +2,47 @@
   {
 
     "nome":"jhomnny",
-    "cognome":  "Cazz",
+    "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
     "nome":"jhomnny",
-    "cognome":  "Cazz",
+    "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
     "nome":"jhomnny",
-    "cognome":  "Cazz",
+    "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
     "nome":"jhomnny",
-    "cognome":  "Cazz",
+    "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
     "nome":"jhomnny",
-    "cognome":  "Cazz",
+    "cognome":  "pippo",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "bigliettaio"
   },
   {
@@ -50,8 +50,8 @@
     "cognome":  "",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "proiezionista"
   },
   {
@@ -59,8 +59,8 @@
     "cognome":  "",
     "username": "",
     "password":  "",
-    "data_di_nascita": "",
-    "luogo_del_domicilio":  "",
+    "dataDiNascita": "",
+    "domicilio":  "",
     "ruolo": "proiezionista"
   }
 ]
